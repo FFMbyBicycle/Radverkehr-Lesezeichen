@@ -71,11 +71,11 @@ Häufig genutzte Quellenangaben
 Offizielle Infos
 ----------------
 
+[StVO](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html)  
+[StVO-Zeichen mit Grafiken](https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_von_2013_bis_2017)  
 [Unfalltypen der UDV](https://udv.de/sites/default/files/tx_udvpublications/unfalltypen-katalog_udv_web_2.pdf)  
 [ADFC-Positionspapier "Umgang mit Pollern & Umlaufsperren"](https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Positionspapiere/ADFC_Positionspapier_Umgang_Poller_Umlaufsperren.pdf)  
 [AGNH Radnetz Handbuch Qualitätsstandards und Musterlösungen](https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/Qualitaetsstandards_und_Musterloesungen_150dpi.pdf)  
-[StVO](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html)  
-[StVO-Zeichen mit Grafiken](https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_von_2013_bis_2017)  
 [Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_28_04_2020_pdf.pdf?__blob=publicationFile&v=6)  
 [Straßenverzeichnis Frankfurt](https://offenedaten.frankfurt.de/dataset/strassenverzeichnis-der-stadt-frankfurt-am-main)  
 
@@ -87,7 +87,7 @@ Abschleppen
 [Einschreitkonkretisierung für Umsetzungen Polizeipräsidentin Berlin](https://fragdenstaat.de/dokumente/2404/)  
 [Geschäftsanweisung Polizei Berlin mit Regelfällen beim Abschleppen](https://fragdenstaat.de/anfrage/geschaftsanweisung-der-polizei-nr-152014/163890/anhang/GAPPrStabNr.15_2014.pdf)  
 [Baden-Württemberg: Erlass zur Überwachung und Sanktionierung von Ordnungswidrigkeiten im ruhenden Verkehr](https://fragdenstaat.de/anfrage/erlass-zur-uberwachung-und-sanktionierung-von-ordnungswidrigkeiten-im-ruhenden-verkehr/507374/anhang/VMBW_ErlasszurberwachungundSanktionierungvonOrdnungswidrigkeitenimruhendenVerkehrvom11.Mai2020.pdf)  
-[Seminar Gehwege befreien (Darmstadt)](https://wegerecht.org/seminar/)  
+[Seminar Gehwege befreien (Wegerecht Darmstadt)](https://wegerecht.org/seminar/)  
 
 
 Dokus
@@ -99,12 +99,14 @@ Dokus
 OSM / Navigation
 ----------------
 
-[OpenRouteService](https://maps.openrouteservice.org)  
-[Umap - angepasste Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
-[Turn Restrictions](https://ahorn.lima-city.de/tr/)  
+[Brouter Navigation](https://brouter.de/brouter-web/)  
+[Brouter-Profil von FFMbyBicycle](https://raw.githubusercontent.com/FFMbyBicycle/brouter-cycling-profiles/master/FFMbyBicycle-long-distance-cycling.brf)  
 [Brouter Glossary](https://github.com/poutnikl/Brouter-profiles/wiki/Glossary)  
-[Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
-[brouter Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)
+[brouter-Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)
+[OpenRouteService](https://maps.openrouteservice.org)  
+[Umap - angepasste OSM-Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
+[Abbiegebeschränkungen in OSM](https://ahorn.lima-city.de/tr/)  
+[OSM Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
 
 ### Overpass Turbo Abfragen
 [Alle nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen in Frankfurt](https://overpass-turbo.eu/s/Ydu)  
@@ -112,6 +114,7 @@ OSM / Navigation
 [Alle Fahrradbügel in Frankfurt](https://overpass-turbo.eu/s/Tu6)  
 [Alle "Fahrradstraßen" in Frankfurt](https://overpass-turbo.eu/s/12gk)  
 [Alle Wege mit fehlender Info über die Oberfläche in Frankfurt](https://overpass-turbo.eu/s/ZhZ)  
+[Alle Stoppschilder in Frankfurt](https://overpass-turbo.eu/s/127B)  
 
 
 [Alle Ghostbikes in Deutschland](https://overpass-turbo.eu/s/WlH)
@@ -121,3 +124,4 @@ Toter Winkel
 ------------
 
 [fahrRad Köln - Ausgabe toter Winkel](https://www.yumpu.com/de/document/read/63909597/adfc-koln-fahrrad-2-2020/16)
+[Polizei Hamburg Video zur Spiegeleinstellung](https://www.youtube.com/watch?v=Jsie5klOyLQ)
