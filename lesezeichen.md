@@ -107,11 +107,14 @@ OSM / Navigation
 [brouter Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)
 
 ### Overpass Turbo Abfragen
-[Nicht freigegebene Einbahnstraßen Frankfurt](https://overpass-turbo.eu/s/Ydu)  
-[Drängelgitter Frankfurt](https://overpass-turbo.eu/s/Wdi)  
-[Fahrradbügel Frankfurt](https://overpass-turbo.eu/s/Tu6)  
-[Fahrradstraßen Frankfurt](https://overpass-turbo.eu/s/YdC)  
-[Ghostbikes in Deutschland](https://overpass-turbo.eu/s/WlH)
+[Alle nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen in Frankfurt](https://overpass-turbo.eu/s/Ydu)  
+[Alle Drängelgitter in Frankfurt](https://overpass-turbo.eu/s/Wdi)  
+[Alle Fahrradbügel in Frankfurt](https://overpass-turbo.eu/s/Tu6)  
+[Alle "Fahrradstraßen" in Frankfurt](https://overpass-turbo.eu/s/12gk)  
+[Alle Wege mit fehlender Info über die Oberfläche in Frankfurt](https://overpass-turbo.eu/s/ZhZ)  
+
+
+[Alle Ghostbikes in Deutschland](https://overpass-turbo.eu/s/WlH)
 
 
 Toter Winkel
