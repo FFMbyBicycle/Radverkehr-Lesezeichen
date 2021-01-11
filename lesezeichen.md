@@ -90,6 +90,30 @@ Abschleppen
 [Seminar Gehwege befreien (Darmstadt)](https://wegerecht.org/seminar/)  
 
 
+Dokus
+-----
+
+[Re: Lieferwahnsinn - Wege aus dem Zustellchaos](https://www.dailymotion.com/video/x6bdwql)
+
+
+OSM / Navigation
+----------------
+
+[OpenRouteService](https://maps.openrouteservice.org)  
+[Umap - angepasste Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
+[Turn Restrictions](https://ahorn.lima-city.de/tr/)  
+[Brouter Glossary](https://github.com/poutnikl/Brouter-profiles/wiki/Glossary)  
+[Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
+[brouter Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)
+
+### Overpass Turbo Abfragen
+[Nicht freigegebene Einbahnstraßen Frankfurt](https://overpass-turbo.eu/s/Ydu)  
+[Drängelgitter Frankfurt](https://overpass-turbo.eu/s/Wdi)  
+[Fahrradbügel Frankfurt](https://overpass-turbo.eu/s/Tu6)  
+[Fahrradstraßen Frankfurt](https://overpass-turbo.eu/s/YdC)  
+[Ghostbikes in Deutschland](https://overpass-turbo.eu/s/WlH)
+
+
 Toter Winkel
 ------------
 
