@@ -86,7 +86,7 @@ Abschleppen
 [Verkehrslexikon: Umsetzung durch negative Vorbildwirkung](https://www.verkehrslexikon.de/Texte/KfzUmsetzung4.php)  
 [Einschreitkonkretisierung für Umsetzungen Polizeipräsidentin Berlin](https://fragdenstaat.de/dokumente/2404/)  
 [Geschäftsanweisung Polizei Berlin mit Regelfällen beim Abschleppen](https://fragdenstaat.de/anfrage/geschaftsanweisung-der-polizei-nr-152014/163890/anhang/GAPPrStabNr.15_2014.pdf)  
-[Baden-Württemberg: Erlass zur Überwachung und Sanktionierung von Ordnungswidrigkeiten im ruhenden Verkehr](https://fragdenstaat.de/anfrage/erlass-zur-uberwachung-und-sanktionierung-von-ordnungswidrigkeiten-im-ruhenden-verkehr/507374/anhang/VMBW_ErlasszurberwachungundSanktionierungvonOrdnungswidrigkeitenimruhendenVerkehrvom11.Mai2020.pdf)
+[Baden-Württemberg: Erlass zur Überwachung und Sanktionierung von Ordnungswidrigkeiten im ruhenden Verkehr](https://fragdenstaat.de/anfrage/erlass-zur-uberwachung-und-sanktionierung-von-ordnungswidrigkeiten-im-ruhenden-verkehr/507374/anhang/VMBW_ErlasszurberwachungundSanktionierungvonOrdnungswidrigkeitenimruhendenVerkehrvom11.Mai2020.pdf)  
 [Seminar Gehwege befreien (Darmstadt)](https://wegerecht.org/seminar/)  
 
 
