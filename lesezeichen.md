@@ -41,6 +41,7 @@ Häufig genutzt Twitter
 [Wie viele Verkehrstote im Bekanntenkreis sind akzeptabel?](https://www.youtube.com/watch?v=k2tOye9DKdQ)  
 [Simulation induzierter Verkehr (UtopiaABC)](https://twitter.com/ABCTV/status/1182468049011535872)  
 [Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
+[Andi Scheuer als Superheld der Autofahrenden](https://twitter.com/BambiTango/status/1311944144001134592)  
 
 
 [Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1235155455456022533)  
@@ -107,6 +108,7 @@ OSM / Navigation
 [Umap - angepasste OSM-Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
 [Abbiegebeschränkungen in OSM](https://ahorn.lima-city.de/tr/)  
 [OSM Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
+[OSM Relation-Suche](http://ra.osmsurround.org)  
 
 ### Overpass Turbo Abfragen
 [Alle nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen in Frankfurt](https://overpass-turbo.eu/s/Ydu)  
