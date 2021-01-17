@@ -42,6 +42,7 @@ Häufig genutzt Twitter
 [Simulation induzierter Verkehr (UtopiaABC)](https://twitter.com/ABCTV/status/1182468049011535872)  
 [Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
 [Andi Scheuer als Superheld der Autofahrenden](https://twitter.com/BambiTango/status/1311944144001134592)  
+[Comic "Opferung von Kindern"](https://twitter.com/littlebigfred/status/1322497562465701889)  
 
 
 [Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1235155455456022533)  
@@ -106,6 +107,7 @@ OSM / Navigation
 [brouter-Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)
 [OpenRouteService](https://maps.openrouteservice.org)  
 [Umap - angepasste OSM-Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
+[Waymarkedtrails - beschilderte Routen anzeigen und herunterladen](https://waymarkedtrails.org)  
 [Abbiegebeschränkungen in OSM](https://ahorn.lima-city.de/tr/)  
 [OSM Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
 [OSM Relation-Suche](http://ra.osmsurround.org)  
