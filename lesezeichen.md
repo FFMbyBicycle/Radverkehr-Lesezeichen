@@ -104,7 +104,7 @@ OSM / Navigation
 [Brouter Navigation](https://brouter.de/brouter-web/)  
 [Brouter-Profil von FFMbyBicycle](https://raw.githubusercontent.com/FFMbyBicycle/brouter-cycling-profiles/master/FFMbyBicycle-long-distance-cycling.brf)  
 [Brouter Glossary](https://github.com/poutnikl/Brouter-profiles/wiki/Glossary)  
-[brouter-Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)
+[brouter-Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)  
 [OpenRouteService](https://maps.openrouteservice.org)  
 [Umap - angepasste OSM-Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
 [Waymarkedtrails - beschilderte Routen anzeigen und herunterladen](https://waymarkedtrails.org)  
