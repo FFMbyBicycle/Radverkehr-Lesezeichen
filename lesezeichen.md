@@ -43,6 +43,7 @@ Häufig genutzt Twitter
 [Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
 [Andi Scheuer als Superheld der Autofahrenden](https://twitter.com/BambiTango/status/1311944144001134592)  
 [Comic "Opferung von Kindern"](https://twitter.com/littlebigfred/status/1322497562465701889)  
+[Bedarfsgerechte Planung für Radinfrastruktur, Vergleich Brücken und Schwimmer im Fluss](https://twitter.com/PHPmacher/status/1095098614605598721)
 
 
 [Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1235155455456022533)  
@@ -68,6 +69,7 @@ Häufig genutzte Quellenangaben
 ["Pkw sind mehr als 23 Stunden am Tag geparkt und das  überwiegend  zuhause.  Die  Standzeit  an  den  Wohnorten beträgt im Mittel über 20 Stunden pro Tag. Auch zu Spitzenzeiten des Pkw-Einsatzes sind noch mehr als die Hälfte der Fahrzeuge zu Hause geparkt, am Wochenende stehen ständig 75 Prozent der Pkw oder mehr zuhause."](http://www.mobilitaet-in-deutschland.de/pdf/MiD2017_Ergebnisbericht.pdf)  
 [Reale PKW-Kosten im Vergleich zu gefühlten Kosten](https://www.spiegel.de/auto/autokauf-deutsche-unterschaetzen-tatsaechliche-kosten-ihres-autos-stark-a-e9230430-6794-4690-96cd-a988f53b93c4)  
 [780.000 Unfalltote, 31 Millionen Verletzte in Deutschland](https://www.spiegel.de/auto/aktuell/deutschland-780-000-verkehrstote-seit-1950-31-millionen-verletzte-a-1183544.html)  
+[Ein Unfalltod betrifft 113 Menschen](https://www.runtervomgas.de/news/artikel/1-tod-113-betroffene.html)
 
 
 Offizielle Infos
