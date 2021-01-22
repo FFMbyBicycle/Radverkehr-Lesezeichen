@@ -17,34 +17,38 @@ Häufig genutzt Twitter
 [Sichtbeziehungen parkende Autos mit Kindern](https://twitter.com/KidicalMass_S/status/1243213103304716290)  
 [Sichtbeziehung parkende Autos mit Kindern 2](https://twitter.com/josykitchen/status/1106125679266070528)
 [Aber die Parkplätze!](https://twitter.com/DirkDorsch/status/1222578850305015808?s=20) (Einzelhandel)  
+[Angst und anschließende Freude nach dem Entfernen von Parkplätzen (ängstliches Pferd)](https://twitter.com/fietsprofessor/status/1135992004742176768)  
 ["Aus 1 mach 8" Parkplätze - FFA](https://www.adfc-frankfurt.de/Frankfurt_aktuell/FFA_Archiv/Ausgabe_2020_4/2020_4_12_aus_1.html)  
 [Aber die Radfahrer! (Aber, Aber - von Paulus Müller | Ein Rap über Whataboutism)](https://www.youtube.com/watch?v=uoJcAILqEDw)  
+[Die unendliche widersprüchliche Liste der Forderungen an Radfahrende](https://twitter.com/ted_unlimi/status/1308716854563803137?s=20)  
 [Ist doch nichts passiert, stellt euch nicht so an](https://twitter.com/MrLoehm/status/1231330814245425154)  
-[Toter Winkel (Ralph Ruthe)](https://twitter.com/ralphruthe/status/1230752902991319046) 
-[Warnschild an LKW: "Fahrer zu faul für Schulterblick"](https://twitter.com/dukoid/status/1297903273693843456)  
-[Poller gegen Falschparker](https://twitter.com/FfmOgo/status/1230110332120637441)  
-[Poller gegen Falschparker (Obermainanlage)](https://twitter.com/avoooni/status/1181119784186007552)  
-[Pressetexte Victim-Blaming (mobilogisch "Texte mit Totalschaden")](https://twitter.com/SchwaBicyclist/status/1226471122608238592)  
-[Das Wort "Unfall" - Im toten Winkel der Sprache (neues-deutschland)](https://www.neues-deutschland.de/artikel/1101202.wort-unfall-im-toten-winkel-der-sprache.html)  
-["Feuerwehr ist wichtig, parken aber auch"](https://twitter.com/aktuelle_stunde/status/1154418437537579008)  
-[Straßenbahn "übersehen"](https://twitter.com/FFMbyBicycle/status/1235148263470379009)  
-[Rad contra Auto - Wer hat Vorfahrt? Die wichtigsten Zweifelsfälle](https://www.stern.de/auto/service/rad-contra-auto---wer-hat-vorfahrt--die-wichtigsten-zweifelsfaelle-8156042.html)  
-[Radfahrer zahlen keine Steuern](https://www.rbb24.de/panorama/beitrag/2020/09/berlin-fragen-antworten-fahrrad-steuer-radweg.htm)  
-[Angst und anschließende Freude nach dem Entfernen von Parkplätzen (ängstliches Pferd)](https://twitter.com/fietsprofessor/status/1135992004742176768)  
 [Rechts überholen an Ampeln ist gefährlich - Vergleich mit Zügen](https://twitter.com/MarBel78/status/1270303528049926149)  
 [An Ampeln rechts vorbei vs. knapp überholt werden (Hammer)](https://twitter.com/dd_flo/status/1275356265045266432)  
 [Den Radweg kann man doch benutzen!](https://twitter.com/digitalVermummt/status/1282229424864329733)  
+
+[Toter Winkel (Ralph Ruthe)](https://twitter.com/ralphruthe/status/1230752902991319046)  
+[Warnschild an LKW: "Fahrer zu faul für Schulterblick"](https://twitter.com/dukoid/status/1297903273693843456)  
+[Straßenbahn "übersehen"](https://twitter.com/FFMbyBicycle/status/1235148263470379009)  
+
+["Feuerwehr ist wichtig, parken aber auch"](https://twitter.com/aktuelle_stunde/status/1154418437537579008)  
+[Poller gegen Falschparker](https://twitter.com/FfmOgo/status/1230110332120637441)  
+[Poller gegen Falschparker (Obermainanlage)](https://twitter.com/avoooni/status/1181119784186007552)  
 [Parken auf Radweg vs. parken auf Fahrbahn](https://twitter.com/asltf/status/1283664476714209280)  
+
+[Pressetexte Victim-Blaming (mobilogisch "Texte mit Totalschaden")](https://twitter.com/SchwaBicyclist/status/1226471122608238592)  
+[Das Wort "Unfall" - Im toten Winkel der Sprache (neues-deutschland)](https://www.neues-deutschland.de/artikel/1101202.wort-unfall-im-toten-winkel-der-sprache.html)  
 [Vergleich Unfallzahlen Flugzeug/Bahn](https://twitter.com/a_linnemann/status/1284913874903412738)  
+
 [Helme helfen gegen alles ("Look Johnny...")](https://twitter.com/BerlinCyclist/status/1141963412580253696)  
+[Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
+[Helmpflicht für Autofahrende sinnvoll](https://www.clevere-staedte.de/blog/artikel/helmpflicht-f%C3%BCr-fu%C3%9Fg%C3%A4nger-und-autofahrer)  
+
 [Fußgänger laufen über Autos auf Zebrastreifen](https://urbanshit.de/einfach-ueber-die-autos-laufen-wenn-diese-den-zebrastreifen-blockieren/)  
 [Wie viele Verkehrstote im Bekanntenkreis sind akzeptabel?](https://www.youtube.com/watch?v=k2tOye9DKdQ)  
 [Simulation induzierter Verkehr (UtopiaABC)](https://twitter.com/ABCTV/status/1182468049011535872)  
-[Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
 [Andi Scheuer als Superheld der Autofahrenden](https://twitter.com/BambiTango/status/1311944144001134592)  
 [Comic "Opferung von Kindern"](https://twitter.com/littlebigfred/status/1322497562465701889)  
-[Bedarfsgerechte Planung für Radinfrastruktur, Vergleich Brücken und Schwimmer im Fluss](https://twitter.com/PHPmacher/status/1095098614605598721)
-
+[Bedarfsgerechte Planung für Radinfrastruktur, Vergleich Brücken und Schwimmer im Fluss](https://twitter.com/PHPmacher/status/1095098614605598721)  
 
 [Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1235155455456022533)  
 [Feuerwehr auf PBL Paris](https://twitter.com/CommuteDeParis/status/1177987442898587648)  
@@ -59,6 +63,9 @@ Häufig genutzt Twitter
 [Feuerwehr auf PBL Williamsburg, Virginia, USA](https://twitter.com/cambridge46er/status/1175510066352525312)  
 [Feuerwehr auf PBL Berlin](https://twitter.com/cumurux/status/1299752633461338115)  
 
+[Bingo Abschleppgruppe vs. Polizei](https://bingobaker.com/#3141126)  
+[Bingo Radwege/Verkehrswende verhindern](https://bingobaker.com#d6887aacace6a171)  
+
 
 Häufig genutzte Quellenangaben
 ------------------------------
@@ -69,7 +76,11 @@ Häufig genutzte Quellenangaben
 ["Pkw sind mehr als 23 Stunden am Tag geparkt und das  überwiegend  zuhause.  Die  Standzeit  an  den  Wohnorten beträgt im Mittel über 20 Stunden pro Tag. Auch zu Spitzenzeiten des Pkw-Einsatzes sind noch mehr als die Hälfte der Fahrzeuge zu Hause geparkt, am Wochenende stehen ständig 75 Prozent der Pkw oder mehr zuhause."](http://www.mobilitaet-in-deutschland.de/pdf/MiD2017_Ergebnisbericht.pdf)  
 [Reale PKW-Kosten im Vergleich zu gefühlten Kosten](https://www.spiegel.de/auto/autokauf-deutsche-unterschaetzen-tatsaechliche-kosten-ihres-autos-stark-a-e9230430-6794-4690-96cd-a988f53b93c4)  
 [780.000 Unfalltote, 31 Millionen Verletzte in Deutschland](https://www.spiegel.de/auto/aktuell/deutschland-780-000-verkehrstote-seit-1950-31-millionen-verletzte-a-1183544.html)  
-[Ein Unfalltod betrifft 113 Menschen](https://www.runtervomgas.de/news/artikel/1-tod-113-betroffene.html)
+[Ein Unfalltod betrifft 113 Menschen](https://www.runtervomgas.de/news/artikel/1-tod-113-betroffene.html)  
+[Kostenvergleich PKW - BahnCard 100](https://twitter.com/VCDeV/status/1352573499295072257)  
+[Radfahrer zahlen keine Steuern](https://www.rbb24.de/panorama/beitrag/2020/09/berlin-fragen-antworten-fahrrad-steuer-radweg.htm)  
+[Rad contra Auto - Wer hat Vorfahrt? Die wichtigsten Zweifelsfälle](https://www.stern.de/auto/service/rad-contra-auto---wer-hat-vorfahrt--die-wichtigsten-zweifelsfaelle-8156042.html)  
+[Nazi-StVO, Fahrradmuseum Münster](https://twitter.com/vonjosbach/status/1097175881318055937?s=20)  
 
 
 Offizielle Infos
