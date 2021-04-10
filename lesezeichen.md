@@ -14,6 +14,7 @@ Häufig genutzt Twitter
 
 [Radwege sehen so leer aus](https://twitter.com/DerGraslutscher/status/1220282050055409664)  
 [Radfahrende nehmen Autofahrenden den ganzen Platz weg](https://twitter.com/BerlinCyclist/status/1224054920514539520)  
+[Treffen sich eine Fußgängerin, eine Radfahrerin und ein KFZ-Fahrer...](https://twitter.com/JosefFischer65/status/1355294732864397313)  
 [Sichtbeziehungen parkende Autos mit Kindern](https://twitter.com/KidicalMass_S/status/1243213103304716290)  
 [Sichtbeziehung parkende Autos mit Kindern 2](https://twitter.com/josykitchen/status/1106125679266070528)
 [Aber die Parkplätze!](https://twitter.com/DirkDorsch/status/1222578850305015808?s=20) (Einzelhandel)  
@@ -24,9 +25,12 @@ Häufig genutzt Twitter
 [Ist doch nichts passiert, stellt euch nicht so an](https://twitter.com/MrLoehm/status/1231330814245425154)  
 [Rechts überholen an Ampeln ist gefährlich - Vergleich mit Zügen](https://twitter.com/MarBel78/status/1270303528049926149)  
 [An Ampeln rechts vorbei vs. knapp überholt werden (Hammer)](https://twitter.com/dd_flo/status/1275356265045266432)  
-[Den Radweg kann man doch benutzen!](https://twitter.com/digitalVermummt/status/1282229424864329733)  
+[Diagramm "Anteil von Idioten" und "Gefahr, die von ihnen ausgeht"](https://twitter.com/fahrradfalko/status/1354500593046450181)  
+["Den Radweg kann man doch benutzen!" - Video Schlaglöcher auf Fahrbahn](https://twitter.com/digitalVermummt/status/1282229424864329733)  
+[Wenn Radwege wie Straßen gebaut werden würden, Symbolbild](https://twitter.com/cycletopia21/status/1371094889262366724)  
 
 [Toter Winkel (Ralph Ruthe)](https://twitter.com/ralphruthe/status/1230752902991319046)  
+[Grafik der per Spiegel ausgeleuchteten Bereiche LKW](https://twitter.com/BerlinCyclist/status/1186317660264583168?s=20)  
 [Warnschild an LKW: "Fahrer zu faul für Schulterblick"](https://twitter.com/dukoid/status/1297903273693843456)  
 [Straßenbahn "übersehen"](https://twitter.com/FFMbyBicycle/status/1235148263470379009)  
 
@@ -34,6 +38,9 @@ Häufig genutzt Twitter
 [Poller gegen Falschparker](https://twitter.com/FfmOgo/status/1230110332120637441)  
 [Poller gegen Falschparker (Obermainanlage)](https://twitter.com/avoooni/status/1181119784186007552)  
 [Parken auf Radweg vs. parken auf Fahrbahn](https://twitter.com/asltf/status/1283664476714209280)  
+[Zu wenige Parkplätze oder zu viele Autos](https://twitter.com/radkolumne/status/1353238805675913216)  
+[Mit dem Rad "nur mal kurz" auf der Fahrbahn parken](https://twitter.com/fietsprofessor/status/1353025642179272715?s=20)  
+[Mit dem Rad "nur mal kurz" auf der Fahrbahn parken (Hamburg)](https://twitter.com/FFMbyBicycle/status/1169242693970681856)  
 
 [Pressetexte Victim-Blaming (mobilogisch "Texte mit Totalschaden")](https://twitter.com/SchwaBicyclist/status/1226471122608238592)  
 [Das Wort "Unfall" - Im toten Winkel der Sprache (neues-deutschland)](https://www.neues-deutschland.de/artikel/1101202.wort-unfall-im-toten-winkel-der-sprache.html)  
@@ -44,6 +51,7 @@ Häufig genutzt Twitter
 [Helmpflicht für Autofahrende sinnvoll](https://www.clevere-staedte.de/blog/artikel/helmpflicht-f%C3%BCr-fu%C3%9Fg%C3%A4nger-und-autofahrer)  
 
 [Fußgänger laufen über Autos auf Zebrastreifen](https://urbanshit.de/einfach-ueber-die-autos-laufen-wenn-diese-den-zebrastreifen-blockieren/)  
+[Ampel mit Fahnen, die zu Fuß Gehende schwenken sollen](https://twitter.com/StrongTowns/status/1074409096156250112?s=20)  
 [Wie viele Verkehrstote im Bekanntenkreis sind akzeptabel?](https://www.youtube.com/watch?v=k2tOye9DKdQ)  
 [Simulation induzierter Verkehr (UtopiaABC)](https://twitter.com/ABCTV/status/1182468049011535872)  
 [Andi Scheuer als Superheld der Autofahrenden](https://twitter.com/BambiTango/status/1311944144001134592)  
@@ -65,6 +73,8 @@ Häufig genutzt Twitter
 
 [Bingo Abschleppgruppe vs. Polizei](https://bingobaker.com/#3141126)  
 [Bingo Radwege/Verkehrswende verhindern](https://bingobaker.com#d6887aacace6a171)  
+
+["ad hominem"-"Argumentation"](https://www.youtube.com/watch?v=KF00DZ-_3J8)  
 
 
 Häufig genutzte Quellenangaben
@@ -93,6 +103,7 @@ Offizielle Infos
 [AGNH Radnetz Handbuch Qualitätsstandards und Musterlösungen](https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/Qualitaetsstandards_und_Musterloesungen_150dpi.pdf)  
 [Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_28_04_2020_pdf.pdf?__blob=publicationFile&v=6)  
 [Straßenverzeichnis Frankfurt](https://offenedaten.frankfurt.de/dataset/strassenverzeichnis-der-stadt-frankfurt-am-main)  
+[Straßenverzeichnis Frankfurt für Räumdienst](https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/rechtsamt/pdf/satzungen/strassenreinigungssatzung-strassenverzeichnis.ashx)  
 
 
 Abschleppen
