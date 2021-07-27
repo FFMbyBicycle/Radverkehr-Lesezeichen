@@ -27,7 +27,8 @@ Häufig genutzt Twitter
 [An Ampeln rechts vorbei vs. knapp überholt werden (Hammer)](https://twitter.com/dd_flo/status/1275356265045266432)  
 [Diagramm "Anteil von Idioten" und "Gefahr, die von ihnen ausgeht"](https://twitter.com/fahrradfalko/status/1354500593046450181)  
 ["Den Radweg kann man doch benutzen!" - Video Schlaglöcher auf Fahrbahn](https://twitter.com/digitalVermummt/status/1282229424864329733)  
-[Wenn Radwege wie Straßen gebaut werden würden, Symbolbild](https://twitter.com/cycletopia21/status/1371094889262366724)  
+[Wenn Radwege wie Fahrbahnen gebaut werden würden, Symbolbild](https://twitter.com/cycletopia21/status/1371094889262366724)  
+[Wenn Radwege wie Fahrbahnen gebaut werden würden, Vergleichsbild](https://twitter.com/fietsprofessor/status/1390924929537822720)  
 
 [Toter Winkel (Ralph Ruthe)](https://twitter.com/ralphruthe/status/1230752902991319046)  
 [Grafik der per Spiegel ausgeleuchteten Bereiche LKW](https://twitter.com/BerlinCyclist/status/1186317660264583168?s=20)  
@@ -101,7 +102,7 @@ Offizielle Infos
 [Unfalltypen der UDV](https://udv.de/sites/default/files/tx_udvpublications/unfalltypen-katalog_udv_web_2.pdf)  
 [ADFC-Positionspapier "Umgang mit Pollern & Umlaufsperren"](https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Positionspapiere/ADFC_Positionspapier_Umgang_Poller_Umlaufsperren.pdf)  
 [AGNH Radnetz Handbuch Qualitätsstandards und Musterlösungen](https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/Qualitaetsstandards_und_Musterloesungen_150dpi.pdf)  
-[Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_28_04_2020_pdf.pdf?__blob=publicationFile&v=6)  
+[Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_01_11_2017.pdf?__blob=publicationFile&v=2)  
 [Straßenverzeichnis Frankfurt](https://offenedaten.frankfurt.de/dataset/strassenverzeichnis-der-stadt-frankfurt-am-main)  
 [Straßenverzeichnis Frankfurt für Räumdienst](https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/rechtsamt/pdf/satzungen/strassenreinigungssatzung-strassenverzeichnis.ashx)  
 
