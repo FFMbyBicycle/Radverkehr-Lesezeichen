@@ -136,6 +136,7 @@ OSM / Navigation
 [Abbiegebeschränkungen in OSM](https://ahorn.lima-city.de/tr/)  
 [OSM Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
 [OSM Relation-Suche](http://ra.osmsurround.org)  
+[OSM History Viewer](https://osmhv.openstreetmap.de/)  
 
 ### Overpass Turbo Abfragen
 [Alle nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen in Frankfurt](https://overpass-turbo.eu/s/Ydu)  
