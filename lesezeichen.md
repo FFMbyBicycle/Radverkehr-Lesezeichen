@@ -139,7 +139,7 @@ OSM / Navigation
 [OSM History Viewer](https://osmhv.openstreetmap.de/)  
 
 ### Overpass Turbo Abfragen
-Achtung: manche Abfragen brauchen einen Moment und funktionieren nur, wenn man weit genug reingezoomt hat! Bis auf die fehlenden Oberflächen können die umap-Karten für die ganze Welt genutzt werden.
+Achtung: manche Abfragen brauchen einen Moment und funktionieren nur, wenn man weit genug reingezoomt hat! Bis auf die fehlenden Oberflächen können die umap-Karten für die ganze Welt genutzt werden.  
 [Nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen](https://umap.openstreetmap.fr/de/map/nicht-freigegebene-einbahnstraen_655958) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Ydu))  
 [Drängelgitter](https://umap.openstreetmap.fr/de/map/drangelgitter_655949) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Wdi))  
 [Fahrradbügel](https://umap.openstreetmap.fr/de/map/fahrradparkplatze-bugel_655853) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Tu6))  
