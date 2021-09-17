@@ -102,7 +102,7 @@ Offizielle Infos
 [Unfalltypen der UDV](https://udv.de/sites/default/files/tx_udvpublications/unfalltypen-katalog_udv_web_2.pdf)  
 [ADFC-Positionspapier "Umgang mit Pollern & Umlaufsperren"](https://www.adfc.de/fileadmin/user_upload/Expertenbereich/Touristik_und_Hotellerie/Positionspapiere/ADFC_Positionspapier_Umgang_Poller_Umlaufsperren.pdf)  
 [AGNH Radnetz Handbuch Qualitätsstandards und Musterlösungen](https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/Qualitaetsstandards_und_Musterloesungen_150dpi.pdf)  
-[Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_01_11_2017.pdf?__blob=publicationFile&v=2)  
+[Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_01_11_2017.pdf?__blob=publicationFile&v=1)  
 [Straßenverzeichnis Frankfurt](https://offenedaten.frankfurt.de/dataset/strassenverzeichnis-der-stadt-frankfurt-am-main)  
 [Straßenverzeichnis Frankfurt für Räumdienst](https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/rechtsamt/pdf/satzungen/strassenreinigungssatzung-strassenverzeichnis.ashx)  
 
