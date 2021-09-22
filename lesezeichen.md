@@ -89,7 +89,7 @@ Häufig genutzte Quellenangaben
 [780.000 Unfalltote, 31 Millionen Verletzte in Deutschland](https://www.spiegel.de/auto/aktuell/deutschland-780-000-verkehrstote-seit-1950-31-millionen-verletzte-a-1183544.html)  
 [Ein Unfalltod betrifft 113 Menschen](https://www.runtervomgas.de/news/artikel/1-tod-113-betroffene.html)  
 [Kostenvergleich PKW - BahnCard 100](https://twitter.com/VCDeV/status/1352573499295072257)  
-[Radfahrer zahlen keine Steuern](https://www.rbb24.de/panorama/beitrag/2020/09/berlin-fragen-antworten-fahrrad-steuer-radweg.htm)  
+[Radfahrer zahlen keine Steuern](https://web.archive.org/web/20201106132100/https://www.rbb24.de/panorama/beitrag/2020/09/berlin-fragen-antworten-fahrrad-steuer-radweg.htm)  
 [Rad contra Auto - Wer hat Vorfahrt? Die wichtigsten Zweifelsfälle](https://www.stern.de/auto/service/rad-contra-auto---wer-hat-vorfahrt--die-wichtigsten-zweifelsfaelle-8156042.html)  
 [Nazi-StVO, Fahrradmuseum Münster](https://twitter.com/vonjosbach/status/1097175881318055937?s=20)  
 
