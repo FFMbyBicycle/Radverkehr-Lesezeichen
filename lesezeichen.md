@@ -20,6 +20,7 @@ Häufig genutzt Twitter
 [Aber die Parkplätze!](https://twitter.com/DirkDorsch/status/1222578850305015808?s=20) (Einzelhandel)  
 [Angst und anschließende Freude nach dem Entfernen von Parkplätzen (ängstliches Pferd)](https://twitter.com/fietsprofessor/status/1135992004742176768)  
 ["Aus 1 mach 8" Parkplätze - FFA](https://www.adfc-frankfurt.de/Frankfurt_aktuell/FFA_Archiv/Ausgabe_2020_4/2020_4_12_aus_1.html)  
+["Aus 1 mach 8" Parkplätze - Twitter Stadt Frankfurt](https://twitter.com/Stadt_FFM/status/1265983937035321344?s=20)  
 [Aber die Radfahrer! (Aber, Aber - von Paulus Müller | Ein Rap über Whataboutism)](https://www.youtube.com/watch?v=uoJcAILqEDw)  
 [Die unendliche widersprüchliche Liste der Forderungen an Radfahrende](https://twitter.com/ted_unlimi/status/1308716854563803137?s=20)  
 [Ist doch nichts passiert, stellt euch nicht so an](https://twitter.com/MrLoehm/status/1231330814245425154)  
@@ -29,15 +30,19 @@ Häufig genutzt Twitter
 ["Den Radweg kann man doch benutzen!" - Video Schlaglöcher auf Fahrbahn](https://twitter.com/digitalVermummt/status/1282229424864329733)  
 [Wenn Radwege wie Fahrbahnen gebaut werden würden, Symbolbild](https://twitter.com/cycletopia21/status/1371094889262366724)  
 [Wenn Radwege wie Fahrbahnen gebaut werden würden, Vergleichsbild](https://twitter.com/fietsprofessor/status/1390924929537822720)  
+[Symbolbild "Deutschland ist führender Automobilstandort"](https://twitter.com/Nicoleopter/status/1454365303069192192?s=20)  
 
 [Toter Winkel (Ralph Ruthe)](https://twitter.com/ralphruthe/status/1230752902991319046)  
 [Grafik der per Spiegel ausgeleuchteten Bereiche LKW](https://twitter.com/BerlinCyclist/status/1186317660264583168?s=20)  
 [Warnschild an LKW: "Fahrer zu faul für Schulterblick"](https://twitter.com/dukoid/status/1297903273693843456)  
 [Straßenbahn "übersehen"](https://twitter.com/FFMbyBicycle/status/1235148263470379009)  
+[Größenvergleich Kind <-> Pickup mit Perscheid](https://twitter.com/ThePrie89/status/1450361722938744834?s=20)  
 
 ["Feuerwehr ist wichtig, parken aber auch"](https://twitter.com/aktuelle_stunde/status/1154418437537579008)  
 [Poller gegen Falschparker](https://twitter.com/FfmOgo/status/1230110332120637441)  
 [Poller gegen Falschparker (Obermainanlage)](https://twitter.com/avoooni/status/1181119784186007552)  
+[Jeder Poller hat eine Entstehungsgeschichte](https://twitter.com/RadTicker/status/1403434948254707716?s=20)  
+[Raser fährt Reihe von Poller um, Frankfurt](https://twitter.com/_TravelTim/status/1168811612842680320?s=20)  
 [Parken auf Radweg vs. parken auf Fahrbahn](https://twitter.com/asltf/status/1283664476714209280)  
 [Zu wenige Parkplätze oder zu viele Autos](https://twitter.com/radkolumne/status/1353238805675913216)  
 [Mit dem Rad "nur mal kurz" auf der Fahrbahn parken](https://twitter.com/fietsprofessor/status/1353025642179272715?s=20)  
@@ -51,6 +56,10 @@ Häufig genutzt Twitter
 [Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
 [Helmpflicht für Autofahrende sinnvoll](https://www.clevere-staedte.de/blog/artikel/helmpflicht-f%C3%BCr-fu%C3%9Fg%C3%A4nger-und-autofahrer)  
 
+[Warnwesten im Praxistest, Polizistin wird frontal angefahren](https://twitter.com/schenectady_s/status/1187740553250783234?s=20)  
+[Autofahrer bedrängt Schülerlotsin in Warnweste](https://twitter.com/AmericanFietser/status/1223054213237919749?s=20)  
+[Polizist in Ganzkörperwarnweste wäre nicht sichtbar](https://twitter.com/CMPG/status/1076236087142633477?s=20)  
+
 [Fußgänger laufen über Autos auf Zebrastreifen](https://urbanshit.de/einfach-ueber-die-autos-laufen-wenn-diese-den-zebrastreifen-blockieren/)  
 [Ampel mit Fahnen, die zu Fuß Gehende schwenken sollen](https://twitter.com/StrongTowns/status/1074409096156250112?s=20)  
 [Wie viele Verkehrstote im Bekanntenkreis sind akzeptabel?](https://www.youtube.com/watch?v=k2tOye9DKdQ)  
@@ -59,21 +68,16 @@ Häufig genutzt Twitter
 [Comic "Opferung von Kindern"](https://twitter.com/littlebigfred/status/1322497562465701889)  
 [Bedarfsgerechte Planung für Radinfrastruktur, Vergleich Brücken und Schwimmer im Fluss](https://twitter.com/PHPmacher/status/1095098614605598721)  
 
-[Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1235155455456022533)  
-[Feuerwehr auf PBL Paris](https://twitter.com/CommuteDeParis/status/1177987442898587648)  
-[Feuerwehr auf PBL NL 1](https://youtu.be/HyQ6DAIg4AQ?t=68)  
-[Feuerwehr auf PBL NL 2](https://youtu.be/ZhFohYHgGyE?t=155)  
-[Feuerwehr auf PBL London 1](https://twitter.com/CyclistHannah/status/1051379001493721088)  
-[Feuerwehr auf PBL London 2](https://twitter.com/Gari_Ferret/status/1231894489146458112)  
-[Feuerwehr auf PBL London 3](https://twitter.com/bike_bs/status/1235159836142206976)  
-[Feuerwehr auf PBL London 4](https://twitter.com/stormcab/status/990704992599277568)  
-[Feuerwehr auf PBL London 5](https://twitter.com/Gosia0801/status/802200676415795201)  
-[Feuerwehr auf PBL NYC](https://twitter.com/TanyaMGulliver/status/1150227016714731522)  
-[Feuerwehr auf PBL Williamsburg, Virginia, USA](https://twitter.com/cambridge46er/status/1175510066352525312)  
-[Feuerwehr auf PBL Berlin](https://twitter.com/cumurux/status/1299752633461338115)  
+[Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1362505196371382274?s=20)  
 
 [Bingo Abschleppgruppe vs. Polizei](https://bingobaker.com/#3141126)  
 [Bingo Radwege/Verkehrswende verhindern](https://bingobaker.com#d6887aacace6a171)  
+
+[Archivbild Frankfurter Römer, 1950er Jahre](https://twitter.com/felix_bohr/status/1452613725668663296?s=20)  
+[Archivbild Frankfurter Fressgass 1960](https://twitter.com/TomBauser/status/1452638626907664390?s=20)  
+[Archivbild Konstablerwache 1966](https://twitter.com/Stadt_FFM/status/1443471943269822469?s=20)  
+
+[Symbolbild "Radinfrastruktur in Deutschland" (Paris-Roubaix)](https://twitter.com/FFMbyBicycle/status/1444674893245784065?s=20)  
 
 ["ad hominem"-"Argumentation"](https://www.youtube.com/watch?v=KF00DZ-_3J8)  
 
@@ -89,9 +93,11 @@ Häufig genutzte Quellenangaben
 [780.000 Unfalltote, 31 Millionen Verletzte in Deutschland](https://www.spiegel.de/auto/aktuell/deutschland-780-000-verkehrstote-seit-1950-31-millionen-verletzte-a-1183544.html)  
 [Ein Unfalltod betrifft 113 Menschen](https://www.runtervomgas.de/news/artikel/1-tod-113-betroffene.html)  
 [Kostenvergleich PKW - BahnCard 100](https://twitter.com/VCDeV/status/1352573499295072257)  
+[Ausbau Autobahnnetz Deutschland vs. Ausbau Schienennetz, 1950-2020](https://twitter.com/kkklawitter/status/1447217271017967624?s=20)  
 [Radfahrer zahlen keine Steuern](https://web.archive.org/web/20201106132100/https://www.rbb24.de/panorama/beitrag/2020/09/berlin-fragen-antworten-fahrrad-steuer-radweg.htm)  
 [Rad contra Auto - Wer hat Vorfahrt? Die wichtigsten Zweifelsfälle](https://www.stern.de/auto/service/rad-contra-auto---wer-hat-vorfahrt--die-wichtigsten-zweifelsfaelle-8156042.html)  
 [Nazi-StVO, Fahrradmuseum Münster](https://twitter.com/vonjosbach/status/1097175881318055937?s=20)  
+[Zahl der Enteignungen in Deutschland für Autobahnen](https://www.tagesspiegel.de/politik/platz-fuer-neue-autobahnen-scheuer-ist-ein-enteignungsminister/26088460.html)  
 
 
 Offizielle Infos
