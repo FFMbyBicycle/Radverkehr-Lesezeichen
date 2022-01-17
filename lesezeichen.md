@@ -21,7 +21,9 @@ Häufig genutzt Twitter
 [Angst und anschließende Freude nach dem Entfernen von Parkplätzen (ängstliches Pferd)](https://twitter.com/fietsprofessor/status/1135992004742176768)  
 ["Aus 1 mach 8" Parkplätze - FFA](https://www.adfc-frankfurt.de/Frankfurt_aktuell/FFA_Archiv/Ausgabe_2020_4/2020_4_12_aus_1.html)  
 ["Aus 1 mach 8" Parkplätze - Twitter Stadt Frankfurt](https://twitter.com/Stadt_FFM/status/1265983937035321344?s=20)  
+["Aus 1 mach 8" Parkplätze - Bockenheim](https://www.radfahren-ffm.de/548-0-Fahrrad-Parken-in-Bockenheim.html)  
 [Aber die Radfahrer! (Aber, Aber - von Paulus Müller | Ein Rap über Whataboutism)](https://www.youtube.com/watch?v=uoJcAILqEDw)  
+[Elf Dinge, die ich als Radfahrerin nicht mehr hören kann (Gunda Wienke)](https://www.heise.de/tp/features/Elf-Dinge-die-ich-als-Radfahrerin-nicht-mehr-hoeren-kann-6287941.html?seite=all)  
 [Die unendliche widersprüchliche Liste der Forderungen an Radfahrende](https://twitter.com/ted_unlimi/status/1308716854563803137?s=20)  
 [Ist doch nichts passiert, stellt euch nicht so an](https://twitter.com/MrLoehm/status/1231330814245425154)  
 [Rechts überholen an Ampeln ist gefährlich - Vergleich mit Zügen](https://twitter.com/MarBel78/status/1270303528049926149)  
@@ -59,6 +61,7 @@ Häufig genutzt Twitter
 [Warnwesten im Praxistest, Polizistin wird frontal angefahren](https://twitter.com/schenectady_s/status/1187740553250783234?s=20)  
 [Autofahrer bedrängt Schülerlotsin in Warnweste](https://twitter.com/AmericanFietser/status/1223054213237919749?s=20)  
 [Polizist in Ganzkörperwarnweste wäre nicht sichtbar](https://twitter.com/CMPG/status/1076236087142633477?s=20)  
+[Video Unfall mit leuchtender Baustellenabsicherung](https://twitter.com/fietsprofessor/status/1479797840406847489?s=20)  
 
 [Fußgänger laufen über Autos auf Zebrastreifen](https://urbanshit.de/einfach-ueber-die-autos-laufen-wenn-diese-den-zebrastreifen-blockieren/)  
 [Ampel mit Fahnen, die zu Fuß Gehende schwenken sollen](https://twitter.com/StrongTowns/status/1074409096156250112?s=20)  
@@ -72,6 +75,7 @@ Häufig genutzt Twitter
 
 [Bingo Abschleppgruppe vs. Polizei](https://bingobaker.com/#3141126)  
 [Bingo Radwege/Verkehrswende verhindern](https://bingobaker.com#d6887aacace6a171)  
+[Schrödingers Quantenradfahrer](https://twitter.com/DbZitate/status/1457274330061156354)  
 
 [Archivbild Frankfurter Römer, 1950er Jahre](https://twitter.com/felix_bohr/status/1452613725668663296?s=20)  
 [Archivbild Frankfurter Fressgass 1960](https://twitter.com/TomBauser/status/1452638626907664390?s=20)  
@@ -81,6 +85,7 @@ Häufig genutzt Twitter
 
 ["ad hominem"-"Argumentation"](https://www.youtube.com/watch?v=KF00DZ-_3J8)  
 
+["Packliste Erste-Hilfe-Set"](https://twitter.com/vonjosbach/status/1482068628904230914)  
 
 Häufig genutzte Quellenangaben
 ------------------------------
@@ -121,12 +126,15 @@ Abschleppen
 [Geschäftsanweisung Polizei Berlin mit Regelfällen beim Abschleppen](https://fragdenstaat.de/anfrage/geschaftsanweisung-der-polizei-nr-152014/163890/anhang/GAPPrStabNr.15_2014.pdf)  
 [Baden-Württemberg: Erlass zur Überwachung und Sanktionierung von Ordnungswidrigkeiten im ruhenden Verkehr](https://fragdenstaat.de/anfrage/erlass-zur-uberwachung-und-sanktionierung-von-ordnungswidrigkeiten-im-ruhenden-verkehr/507374/anhang/VMBW_ErlasszurberwachungundSanktionierungvonOrdnungswidrigkeitenimruhendenVerkehrvom11.Mai2020.pdf)  
 [Seminar Gehwege befreien (Wegerecht Darmstadt)](https://wegerecht.org/seminar/)  
+[Bericht FR kleine Anfrage hessischer Landtag Abschleppen von Falschparkern](https://web.archive.org/web/20190825213337/www.fr.de/rhein-main/zugeparkte-radwege-polizei-soll-abschleppen-lassen-12943374.html)  
 
 
 Dokus
 -----
 
-[Re: Lieferwahnsinn - Wege aus dem Zustellchaos](https://www.dailymotion.com/video/x6bdwql)
+[Re: Lieferwahnsinn - Wege aus dem Zustellchaos](https://www.dailymotion.com/video/x6bdwql)  
+[Unterwegs mit der Fahrradpolizei in Frankfurt - Das Fahrradklima in Hessens Städten | hessenschau](https://web.archive.org/web/*/https://www.youtube.com/watch?v=RL8jZCdiRNs)  
+["Nur mal kurz halten? 70 Euro!" - Begleitung der Fahrradstaffel Frankfurt (FAZ)](https://www.faz.net/aktuell/gesellschaft/neuer-bussgeldkatalog-wie-strafen-im-strassenverkehr-erhoeht-wurden-17633902.html)  
 
 
 OSM / Navigation
@@ -152,7 +160,7 @@ Achtung: manche Abfragen brauchen einen Moment und funktionieren nur, wenn man w
 ["Fahrradstraßen"](https://umap.openstreetmap.fr/de/map/fahrradstraen_655946) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/12gk))  
 [Stoppschilder](https://umap.openstreetmap.fr/de/map/stoppschilder_655964) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/127B)  
 [Wege mit fehlender Info über die Oberfläche in Frankfurt](https://overpass-turbo.eu/s/ZhZ) (Wegen der großen Datenmengen leider nur über overpass-turbo)  
-
+[Fahrrad-Reparaturstationen und Schlauch-Automaten in Westeuropa](https://umap.openstreetmap.fr/de/map/fahrrad-reparaturstationen-und-ersatzteil-automate_662900#6/48.611/7.954)  
 
 [Alle Ghostbikes in Deutschland](https://overpass-turbo.eu/s/WlH)
 
