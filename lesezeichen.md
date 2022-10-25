@@ -9,6 +9,15 @@ Werkzeuge
 [Web Archive - zur Archivierung von Presseberichten usw.](https://web.archive.org)
 
 
+Bahn-Werkzeuge
+--------------
+[DB Störungskarte](http://strecken.info)  
+[DB Störungskarte mobil](https://bahnstoerungen.michreichert.de/)  
+[Karte Direktverbindungen](https://direkt.bahn.guru/)  
+[Live-Infos zu Zügen, ehemals marudor-Karte](https://bahn.expert)  
+[Zugreihungen, Zugverzeichnis, Details Zugausstattungen](https://www.grahnert.de)  
+
+
 Häufig genutzt Twitter
 ----------------------
 
@@ -53,6 +62,7 @@ Häufig genutzt Twitter
 [Pressetexte Victim-Blaming (mobilogisch "Texte mit Totalschaden")](https://twitter.com/SchwaBicyclist/status/1226471122608238592)  
 [Das Wort "Unfall" - Im toten Winkel der Sprache (neues-deutschland)](https://www.neues-deutschland.de/artikel/1101202.wort-unfall-im-toten-winkel-der-sprache.html)  
 [Vergleich Unfallzahlen Flugzeug/Bahn](https://twitter.com/a_linnemann/status/1284913874903412738)  
+[Videosammlung Dooring-Unfälle](https://twitter.com/Agustincito_s/status/1581724590513889280)  
 
 [Helme helfen gegen alles ("Look Johnny...")](https://twitter.com/BerlinCyclist/status/1141963412580253696)  
 [Wie viele Helme helfen?](https://twitter.com/tm_nrmn/status/1302865093982650370)  
@@ -70,6 +80,7 @@ Häufig genutzt Twitter
 [Andi Scheuer als Superheld der Autofahrenden](https://twitter.com/BambiTango/status/1311944144001134592)  
 [Comic "Opferung von Kindern"](https://twitter.com/littlebigfred/status/1322497562465701889)  
 [Bedarfsgerechte Planung für Radinfrastruktur, Vergleich Brücken und Schwimmer im Fluss](https://twitter.com/PHPmacher/status/1095098614605598721)  
+[Sogwirkung LKW Zigarettenrauch](https://twitter.com/quotewordstory/status/1530882679171784704)  
 
 [Feuerwehr auf PBL Sammlung](https://twitter.com/FFMbyBicycle/status/1362505196371382274?s=20)  
 
@@ -86,6 +97,7 @@ Häufig genutzt Twitter
 ["ad hominem"-"Argumentation"](https://www.youtube.com/watch?v=KF00DZ-_3J8)  
 
 ["Packliste Erste-Hilfe-Set"](https://twitter.com/vonjosbach/status/1482068628904230914)  
+
 
 Häufig genutzte Quellenangaben
 ------------------------------
@@ -116,6 +128,7 @@ Offizielle Infos
 [Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/btkat_node.html)  
 [Straßenverzeichnis Frankfurt](https://offenedaten.frankfurt.de/dataset/strassenverzeichnis-der-stadt-frankfurt-am-main)  
 [Straßenverzeichnis Frankfurt für Räumdienst](https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/rechtsamt/pdf/satzungen/strassenreinigungssatzung-strassenverzeichnis.ashx)  
+[Fahrrad-Zählstellen Hessen](https://data.eco-counter.com/ParcPublic/?id=8080#)  
 
 
 Abschleppen
@@ -155,14 +168,12 @@ OSM / Navigation
 ### Overpass Turbo Abfragen
 Achtung: manche Abfragen brauchen einen Moment und funktionieren nur, wenn man weit genug reingezoomt hat! Bis auf die fehlenden Oberflächen können die umap-Karten für die ganze Welt genutzt werden.  
 [Nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen](https://umap.openstreetmap.fr/de/map/nicht-freigegebene-einbahnstraen_655958) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Ydu))  
-[Drängelgitter](https://umap.openstreetmap.fr/de/map/drangelgitter_655949) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Wdi))  
+[Drängelgitter in Deutschland](https://umap.openstreetmap.fr/de/map/drangelgitter_655949) ([Live-Abfrage der Daten über Overpass-Turbo](https://overpass-turbo.eu/s/Wdi))  
 [Fahrradbügel](https://umap.openstreetmap.fr/de/map/fahrradparkplatze-bugel_655853) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Tu6))  
 ["Fahrradstraßen"](https://umap.openstreetmap.fr/de/map/fahrradstraen_655946) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/12gk))  
 [Stoppschilder](https://umap.openstreetmap.fr/de/map/stoppschilder_655964) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/127B)  
-[Wege mit fehlender Info über die Oberfläche in Frankfurt](https://overpass-turbo.eu/s/ZhZ) (Wegen der großen Datenmengen leider nur über overpass-turbo)  
-[Fahrrad-Reparaturstationen und Schlauch-Automaten in Westeuropa](https://umap.openstreetmap.fr/de/map/fahrrad-reparaturstationen-und-ersatzteil-automate_662900#6/48.611/7.954)  
-
-[Alle Ghostbikes in Deutschland](https://overpass-turbo.eu/s/WlH)
+[Wege mit fehlender Info über die Oberfläche in Frankfurt](https://umap.openstreetmap.fr/de/map/fehlen-wegoberflachen-in-frankfurt-am-main_814736) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/ZhZ)  
+[Fahrrad-Reparaturstationen, Schlauch-Automaten, Ghostbikes, Drängelgitter weltweit](https://umap.openstreetmap.fr/de/map/fahrrad-daten-weltweit_662900)  
 
 
 Toter Winkel
