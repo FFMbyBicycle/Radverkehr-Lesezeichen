@@ -116,6 +116,7 @@ Häufig genutzte Quellenangaben
 [Nazi-StVO, Fahrradmuseum Münster](https://twitter.com/vonjosbach/status/1097175881318055937?s=20)  
 [Zahl der Enteignungen in Deutschland für Autobahnen](https://www.tagesspiegel.de/politik/platz-fuer-neue-autobahnen-scheuer-ist-ein-enteignungsminister/26088460.html)  
 
+[Diverse Studien zu autoarmen Einkaufsstraßen von @fahrradfalko](https://github.com/fahrradfalko/biking-links/blob/main/README.md#studien-und-artikel-zum-thema-autoarme-einkaufsstra%C3%9Fen)  
 
 Offizielle Infos
 ----------------
@@ -192,3 +193,9 @@ Toter Winkel
 [MAN Gruppe / Feuerwehr München](https://twitter.com/FFMbyBicycle/status/1348361346207916038)  
 [ADAC](https://twitter.com/FFMbyBicycle/status/1261602440840974337)  
 [Deutsche Verkehrswacht](https://twitter.com/FFMbyBicycle/status/1261600786196443141)  
+
+
+Technik
+-------
+
+[Rohloff Di2 Ansteuerung](https://github.com/kmrost/rohloff_di2/tree/main/CAD)  
