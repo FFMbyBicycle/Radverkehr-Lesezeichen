@@ -1,18 +1,16 @@
 Werkzeuge
 -----
-[Geoinfo Frankfurt](https://geoinfo.frankfurt.de/mapbender/application/stadtplan)  
+[Geoinfo Frankfurt](https://geoportal.frankfurt.de/karte/)  
 [Arrogance of Space (Platzverteilung mit Luftbildern)](https://cyklokoalicia.sk/arrogance/)  
 [Straßenquerschnitte visualisieren](https://streetmix.net)  
 [Kurzanleitung Straße per Demo autofrei bekommen](https://twitter.com/autofreiberlin/status/1160624160135143425)  
 [Simpsons Tafelgenerator](https://imgflip.com/memegenerator/60777140/Bart-Simpson---chalkboard)  
-[Twitter Tweetdeck](https://tweetdeck.twitter.com)  
 [Web Archive - zur Archivierung von Presseberichten usw.](https://web.archive.org)
 
 
 Bahn-Werkzeuge
 --------------
-[DB Störungskarte](http://strecken.info)  
-[DB Störungskarte mobil](https://bahnstoerungen.michreichert.de/)  
+[DB Störungskarte](https://strecken-info.de)  
 [Karte Direktverbindungen](https://direkt.bahn.guru/)  
 [Live-Infos zu Zügen, ehemals marudor-Karte](https://bahn.expert)  
 [Zugreihungen, Zugverzeichnis, Details Zugausstattungen](https://www.grahnert.de)  
@@ -129,7 +127,7 @@ Offizielle Infos
 [Bundeseinheitlicher Tatbestandskatalog](https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/btkat_node.html)  
 [Straßenverzeichnis Frankfurt](https://offenedaten.frankfurt.de/dataset/strassenverzeichnis-der-stadt-frankfurt-am-main)  
 [Straßenverzeichnis Frankfurt für Räumdienst](https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/rechtsamt/pdf/satzungen/strassenreinigungssatzung-strassenverzeichnis.ashx)  
-[Fahrrad-Zählstellen Hessen](https://data.eco-counter.com/ParcPublic/?id=8080#)  
+[Fahrrad-Zählstellen Hessen](https://hessen-mobil.eco-counter.com/)  
 
 
 Abschleppen
@@ -154,7 +152,7 @@ Dokus
 OSM / Navigation
 ----------------
 
-[Brouter Navigation](https://brouter.de/brouter-web/)  
+[Brouter Online Navigation](https://bikerouter.de)  
 [Brouter-Profil von FFMbyBicycle](https://raw.githubusercontent.com/FFMbyBicycle/brouter-cycling-profiles/master/FFMbyBicycle-long-distance-cycling.brf)  
 [Brouter Glossary](https://github.com/poutnikl/Brouter-profiles/wiki/Glossary)  
 [brouter-Profil Referenz mit allen Werten](https://raw.githubusercontent.com/poutnikl/Trekking-Poutnik/master/Trekking-Poutnik.brf)  
@@ -162,22 +160,22 @@ OSM / Navigation
 [Umap - angepasste OSM-Karten mit Overlay](https://umap.openstreetmap.fr/en/)  
 [Waymarkedtrails - beschilderte Routen anzeigen und herunterladen](https://waymarkedtrails.org)  
 [Abbiegebeschränkungen in OSM](https://ahorn.lima-city.de/tr/)  
+[Parkplätze in OSM](https://zlant.github.io/parking-lanes/)  
 [OSM Verkehrszeichen-Generator](http://osmtools.de/traffic_signs/)  
 [OSM Relation-Suche](http://ra.osmsurround.org)  
 [OSM History Viewer](https://osmhv.openstreetmap.de/)  
 
 ### Overpass Turbo Abfragen
 Achtung: manche Abfragen brauchen einen Moment und funktionieren nur, wenn man weit genug reingezoomt hat! Bis auf die fehlenden Oberflächen können die umap-Karten für die ganze Welt genutzt werden.  
-[Nicht in Gegenrichtung für Radverkehr freigegebene Einbahnstraßen](https://umap.openstreetmap.fr/de/map/nicht-freigegebene-einbahnstraen_655958) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Ydu))  
+[Diverse Daten über Frankfurter (Rad-)Infrastruktur, u.a. nicht freigegenene Einbahnstraßen, Fahrradbügel, Fahrradstraßen, Geschwindigkeitsbegrenzungen, ...](https://umap.openstreetmap.fr/en/map/radinfrastruktur-in-frankfurt-am-main_715623)  
 [Drängelgitter in Deutschland](https://umap.openstreetmap.fr/de/map/drangelgitter_655949) ([Live-Abfrage der Daten über Overpass-Turbo](https://overpass-turbo.eu/s/Wdi))  
-[Fahrradbügel](https://umap.openstreetmap.fr/de/map/fahrradparkplatze-bugel_655853) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/Tu6))  
 ["Fahrradstraßen"](https://umap.openstreetmap.fr/de/map/fahrradstraen_655946) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/12gk))  
-[Stoppschilder](https://umap.openstreetmap.fr/de/map/stoppschilder_655964) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/127B)  
-[Wege mit fehlender Info über die Oberfläche in Frankfurt](https://umap.openstreetmap.fr/de/map/fehlen-wegoberflachen-in-frankfurt-am-main_814736) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/ZhZ)  
-[Fahrrad-Reparaturstationen, Schlauch-Automaten, Ghostbikes, Drängelgitter weltweit](https://umap.openstreetmap.fr/de/map/fahrrad-daten-weltweit_662900)  
+[Stoppschilder Weltweit](https://umap.openstreetmap.fr/de/map/stoppschilder_655964) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/127B)  
+[Wege mit fehlender Info über die Oberfläche, nach Bundesländern](https://umap.openstreetmap.fr/de/map/fehlende-wegoberflachen-in-deutschland_814736) ([Live-Abfrage der Daten über Overpass-Turbo für Frankfurt](https://overpass-turbo.eu/s/ZhZ)  
+[Ghostbikes, Rechtsabbiege-Pfeile, Fahrrad-Reparaturstationen, Schlauch-Automaten, Ghostbikes, Drängelgitter usw. weltweit](https://umap.openstreetmap.fr/de/map/fahrrad-daten-weltweit_662900)  
 
 
-Toter Winkel
+"Toter Winkel"
 ------------
 
 [fahrRad Köln - Ausgabe toter Winkel](https://www.yumpu.com/de/document/read/63909597/adfc-koln-fahrrad-2-2020/16)  
